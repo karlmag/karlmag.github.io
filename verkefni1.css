@@ -1,0 +1,16 @@
+body{ 
+    background: linear-gradient(to bottom, #ffffff 0%, #ff99cc 100%);
+    font-family: fantasy;
+    
+    widows: 50em;
+    
+}
+
+h1{
+    color:blue; font-size:30px;
+        }
+
+.Verkefni1 {
+    color: slateblue;
+    font-size: 72px
+}
